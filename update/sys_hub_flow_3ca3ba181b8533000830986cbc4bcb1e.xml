@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>false</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Flow to test custom action</description>
+        <internal_name>action_test_flow</internal_name>
+        <label_cache>[{"name":"eb70e755-8198-41c0-8e11-09b6d50739c8.property_value","label":"1➛Property value","reference_display":"Property value","type":"string","base_type":"string"},{"name":"80ccf14e-a1b3-4df2-bb25-ebac2f7a6955.calculated_date","label":"2➛Calculated date","reference_display":"Calculated date","type":"glide_date","base_type":"glide_date"},{"name":"42da8247-aab1-4606-adff-283de005bf48.follow_up_task","label":"3➛Follow-up task","reference":"x_58872_needit_needit_task","reference_display":"Follow-up task","type":"reference","base_type":"reference"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Action Test Flow</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>true</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-22 15:33:25</sys_created_on>
+        <sys_id>3ca3ba181b8533000830986cbc4bcb1e</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Action Test Flow</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_needit_spoke">b403f6181b8533000830986cbc4bcb8d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">b403f6181b8533000830986cbc4bcb8d</sys_scope>
+        <sys_update_name>sys_hub_flow_3ca3ba181b8533000830986cbc4bcb1e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-22 16:40:53</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=3ca3ba181b8533000830986cbc4bcb1e"/>
+    <sys_variable_value action="delete_multiple" query="document_key=3ca3ba181b8533000830986cbc4bcb1e"/>
+</record_update>
